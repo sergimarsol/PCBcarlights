@@ -9,7 +9,7 @@ PCB Car Lights is a project focused on the design and implementation of a printe
 1. [Introduction](#introduction)
 2. [Features](#features)
 3. [Getting Started](#getting-started)
-4. [Schematic](#schematic) and [Layout](#layout)
+4. [Schematic and Layout](#schematic-and-layout)
 5. [Components](#components)
 6. [Presentation](#presentation)
 7. [Contributing](#contributing)
