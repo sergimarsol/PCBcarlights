@@ -46,27 +46,17 @@ To get started with the PCB Car Lights project, follow these steps:
 
 ## Schematic and Layout
 
-The schematic diagram provides an overview of the electronic components and their connections and the PCB layout file defines the physical arrangement of components on the board. Open both files using [Kicad] to view the schematic and the layout of the implemented PCB.
+The schematic diagram provides an overview of the electronic components and their connections and the PCB layout file defines the physical arrangement of components on the board. Open both files using [Kicad] to view the schematic and the layout of the implemented PCB. Screenshots of both files and of the block diagram are also provided:
 
+- [View Block diagram](./imgs/Block_diagram.PNG)
 - [View Schematic](./imgs/SCH_image.PNG)
 - [View PCB](./imgs/PCB_image.PNG)
 
 ## Components
 
-Some components used in the PCB are shown below. Note that these are not all the components but just provide an example.
+To view the components refer to the .xlsx file containing them along with their budget.
 
-| Ref. | Description | Datasheet |
-| ------ | ----------------- | ------------------ |
-| PIC18F258| Microcontroller.... | [datasheet](https://4donline.ihs.com/images/VipMasterIC/IC/MCHP/MCHPS03028/MCHPS03028-1.pdf?hkey=6D3A4C79FDBF58556ACFDE234799DDF0)|
-| LM1117| Regulator.... | [datasheet](https://www.ti.com/general/docs/suppproductinfo.tsp?distId=26&gotoUrl=https://www.ti.com/lit/gpn/lm1117)|
-| MCP2551| CAN Transceiver.... | [datasheet](https://www.farnell.com/datasheets/2299423.pdf)|
-| PIC18F258| DB9 Connector.... | [datasheet](https://....)|
-| G5LE-14-CF| High Power Relay.... | [datasheet](https://omronfs.omron.com/en_US/ecb/products/pdf/en-g5le.pdf)|
-| G5NB1A| Low Power Relay.... | [datasheet](https://www.farnell.com/datasheets/2340807.pdf)|
-| HC49US| Clock.... | [datasheet](https://www.farnell.com/datasheets/1359171.pdf)|
-| L298N| Motor Driver.... | [datasheet](https://www.farnell.com/datasheets/1693054.pdf)|
-| ULN2003| Relay Driver.... | [datasheet](https://www.ti.com/lit/ds/symlink/uln2003a.pdf?ts=1679884652584&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FULN2003A%253Futm_source%253Dgoogle%2526utm_medium%253Dcpc%2526utm_campaign%253Dapp-psil-null-prodfolderdynamic-cpc-pf-google-wwe_int%2526utm_content%253Dprodfolddynamic%2526ds_k%253DDYNAMIC%2BSEARCH%2BADS%2526DCM%253Dyes%2526gclid%253DCj0KCQjw2v-gBhC1ARIsAOQdKY2V8NQj1MDO03wHvxCNCnLLP3BTjBXfBt316i6NoYeyX4ZuCcTenmoaAiblEALw_wcB%2526gclsrc%253Daw.ds)|
-| VEMD6060X01| Light Sensor.... | [datasheet](https://4donline.ihs.com/images/VipMasterIC/IC/VISH/VISH-S-A0001545403/VISH-S-A0001545403-1.pdf?hkey=6D3A4C79FDBF58556ACFDE234799DDF0)|
+- [View components and budget](./Components_budget.xlsx)
 
 ## Presentation
 
