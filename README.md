@@ -48,7 +48,7 @@ To get started with the PCB Car Lights project, follow these steps:
 
 The schematic diagram provides an overview of the electronic components and their connections and the PCB layout file defines the physical arrangement of components on the board. Open both files using [Kicad] to view the schematic and the layout of the implemented PCB. Screenshots of both files and of the block diagram are also provided:
 
-- [View Block diagram](./imgs/Block_diagram.PNG)
+- [View Block diagram](./imgs/block_diagram.PNG)
 - [View Schematic](./imgs/SCH_image.PNG)
 - [View PCB](./imgs/PCB_image.PNG)
 
