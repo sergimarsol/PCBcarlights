@@ -9,12 +9,11 @@ PCB Car Lights is a project focused on the design and implementation of a printe
 1. [Introduction](#introduction)
 2. [Features](#features)
 3. [Getting Started](#getting-started)
-4. [Schematic](#schematic)
-5. [Layout](#layout)
-6. [Components](#components)
-7. [Presentation](#presentation)
-8. [Contributing](#contributing)
-9. [License](#license)
+4. [Schematic](#schematic) and [Layout](#layout)
+5. [Components](#components)
+6. [Presentation](#presentation)
+7. [Contributing](#contributing)
+8. [License](#license)
 
 ## Introduction
 
@@ -45,15 +44,9 @@ To get started with the PCB Car Lights project, follow these steps:
 5. **Testing:**
    Before manufacturing the PCB, simulate and test the design using appropriate tools to ensure functionality.
 
-## Schematic
+## Schematic and Layout
 
-The schematic diagram provides an overview of the electronic components and their connections. Open the schematic file (located in the `schematic` directory) using [design software] to visualize and understand the circuit.
-
-![Schematic Diagram](schematic/pcb_car_lights_schematic.png)
-
-## Layout
-
-The PCB layout file  defines the physical arrangement of components on the board and can be found in the. Open the layout file using [layout software] to review and optimize the placement for manufacturing.
+The schematic diagram provides an overview of the electronic components and their connections and the PCB layout file defines the physical arrangement of components on the board. Open both files using [Kicad] to view the schematic and the layout of the implemented PCB.
 
 ## Components
 
