@@ -12,8 +12,9 @@ PCB Car Lights is a project focused on the design and implementation of a printe
 4. [Schematic](#schematic)
 5. [Layout](#layout)
 6. [Components](#components)
-7. [Contributing](#contributing)
-8. [License](#license)
+7. [Presentation](#presentation)
+8. [Contributing](#contributing)
+9. [License](#license)
 
 ## Introduction
 
@@ -22,8 +23,6 @@ Modern cars rely on sophisticated lighting systems for safety and aesthetics. Th
 ## Features
 
 - **Efficient Control:** Optimal management of car lights for improved energy efficiency.
-- **Customizable Design:** Adapt the PCB to fit various car models and lighting configurations.
-- **User-Friendly Interface:** Simple and intuitive controls for easy integration into existing car systems.
 
 ## Getting Started
 
@@ -54,20 +53,34 @@ The schematic diagram provides an overview of the electronic components and thei
 
 ## Layout
 
-The PCB layout file (located in the `layout` directory) defines the physical arrangement of components on the board. Open the layout file using [layout software] to review and optimize the placement for manufacturing.
-
-![PCB Layout](layout/pcb_car_lights_layout.png)
+The PCB layout file  defines the physical arrangement of components on the board and can be found in the. Open the layout file using [layout software] to review and optimize the placement for manufacturing.
 
 ## Components
 
-The `components` directory contains detailed information about the electronic components used in the PCB Car Lights project. Refer to these documents for specifications, datasheets, and other relevant details.
+Some components used in the PCB are shown below. Note that these are not all the components but just provide an example.
+
+| Ref. | Description | Datasheet |
+| ------ | ----------------- | ------------------ |
+| PIC18F258| Microcontroller.... | [datasheet](https://4donline.ihs.com/images/VipMasterIC/IC/MCHP/MCHPS03028/MCHPS03028-1.pdf?hkey=6D3A4C79FDBF58556ACFDE234799DDF0)|
+| LM1117| Regulator.... | [datasheet](https://www.ti.com/general/docs/suppproductinfo.tsp?distId=26&gotoUrl=https://www.ti.com/lit/gpn/lm1117)|
+| MCP2551| CAN Transceiver.... | [datasheet](https://www.farnell.com/datasheets/2299423.pdf)|
+| PIC18F258| DB9 Connector.... | [datasheet](https://....)|
+| G5LE-14-CF| High Power Relay.... | [datasheet](https://omronfs.omron.com/en_US/ecb/products/pdf/en-g5le.pdf)|
+| G5NB1A| Low Power Relay.... | [datasheet](https://www.farnell.com/datasheets/2340807.pdf)|
+| HC49US| Clock.... | [datasheet](https://www.farnell.com/datasheets/1359171.pdf)|
+| L298N| Motor Driver.... | [datasheet](https://www.farnell.com/datasheets/1693054.pdf)|
+| ULN2003| Relay Driver.... | [datasheet](https://www.ti.com/lit/ds/symlink/uln2003a.pdf?ts=1679884652584&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FULN2003A%253Futm_source%253Dgoogle%2526utm_medium%253Dcpc%2526utm_campaign%253Dapp-psil-null-prodfolderdynamic-cpc-pf-google-wwe_int%2526utm_content%253Dprodfolddynamic%2526ds_k%253DDYNAMIC%2BSEARCH%2BADS%2526DCM%253Dyes%2526gclid%253DCj0KCQjw2v-gBhC1ARIsAOQdKY2V8NQj1MDO03wHvxCNCnLLP3BTjBXfBt316i6NoYeyX4ZuCcTenmoaAiblEALw_wcB%2526gclsrc%253Daw.ds)|
+| VEMD6060X01| Light Sensor.... | [datasheet](https://4donline.ihs.com/images/VipMasterIC/IC/VISH/VISH-S-A0001545403/VISH-S-A0001545403-1.pdf?hkey=6D3A4C79FDBF58556ACFDE234799DDF0)|
+
+## Presentation
+
+Included in this repository is a PDF presentation (`PCB_Car_Lights_Presentation.pdf`) that provides a comprehensive overview of the project. The presentation covers background, design methodology, key features, and potential applications of the PCB Car Lights project.
 
 ## Contributing
 
 Contributions to the PCB Car Lights project are welcome! Whether you want to report issues, propose enhancements, or submit pull requests, please review our [contribution guidelines](CONTRIBUTING.md).
 
 ## License
-
 This project is licensed under the [MIT License](LICENSE), which means you are free to use, modify, and distribute the project for personal or commercial purposes.
 
 ---
