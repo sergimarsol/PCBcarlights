@@ -52,15 +52,19 @@ The schematic diagram provides an overview of the electronic components and thei
 - [View Schematic](./imgs/SCH_image.PNG)
 - [View PCB](./imgs/PCB_image.PNG)
 
+All of these can be observed in the provided presentation.
+
 ## Components
 
 To view the components refer to the .xlsx file containing them along with their budget.
 
 - [View components and budget](./Components_budget.xlsx)
 
+The most relevant components can be found in the provided presentation
+
 ## Presentation
 
-Included in this repository is a PDF presentation (`PCB_Car_Lights_Presentation.pdf`) that provides a comprehensive overview of the project. The presentation covers background, design methodology, key features, and potential applications of the PCB Car Lights project.
+Included in this repository is a PDF presentation (`PCBcarlights_Presentation.pdf`) that provides a comprehensive overview of the project. The presentation covers background, design methodology, key features, and potential applications of the PCB Car Lights project.
 
 ## Contributing
 
