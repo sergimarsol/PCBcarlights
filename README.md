@@ -7,21 +7,15 @@ PCB Car Lights is a project focused on the design and implementation of a printe
 ## Table of Contents
 
 1. [Introduction](#introduction)
-2. [Features](#features)
-3. [Getting Started](#getting-started)
-4. [Schematic and Layout](#schematic-and-layout)
-5. [Components](#components)
-6. [Presentation](#presentation)
-7. [Contributing](#contributing)
-8. [License](#license)
+2. [Getting Started](#getting-started)
+3. [Schematic and Layout](#schematic-and-layout)
+4. [Components](#components)
+5. [Presentation](#presentation)
+6. [Contributing](#contributing)
 
 ## Introduction
 
 Modern cars rely on sophisticated lighting systems for safety and aesthetics. The PCB Car Lights project aims to streamline the control of car lights, providing a compact and efficient solution through a custom-designed PCB.
-
-## Features
-
-- **Efficient Control:** Optimal management of car lights for improved energy efficiency.
 
 ## Getting Started
 
@@ -68,11 +62,4 @@ Included in this repository is a PDF presentation (`PCBcarlights_Presentation.pd
 
 ## Contributing
 
-Contributions to the PCB Car Lights project are welcome! Whether you want to report issues, propose enhancements, or submit pull requests, please review our [contribution guidelines](CONTRIBUTING.md).
-
-## License
-This project is licensed under the [MIT License](LICENSE), which means you are free to use, modify, and distribute the project for personal or commercial purposes.
-
----
-
-Feel free to customize this README to better fit the specifics of your project. Update the placeholders like `[design software]` with the actual software names and provide more detailed information about the components if necessary.
+If you have any questions or feedback, feel free to reach out to me.
